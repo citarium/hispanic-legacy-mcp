@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "hispanic-legacy": {
+      "type": "streamable-http",
+      "url": "https://hispanic-legacy.com/mcp"
+    }
+  }
+}
