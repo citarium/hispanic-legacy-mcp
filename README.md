@@ -13,6 +13,8 @@ Nothing to install. It is a hosted streamable-HTTP endpoint:
 https://hispanic-legacy.com/mcp
 ```
 
+Also listed on [Smithery](https://smithery.ai/servers/hispanic-legacy/hispanic-legacy).
+
 ## Add it to a client
 
 **Claude Code**
