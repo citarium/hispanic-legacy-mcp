@@ -2,6 +2,8 @@
 
 > Spain's contributions to world science, exploration and culture, rigorously sourced
 
+[![smithery badge](https://smithery.ai/badge/hispanic-legacy/hispanic-legacy)](https://smithery.ai/servers/hispanic-legacy/hispanic-legacy)
+
 A **remote MCP server** over a curated knowledge graph. Every claim it
 returns is bound to a registered source: the tools hand back claims *with*
 their citations and a confidence value, so an agent can show its work
