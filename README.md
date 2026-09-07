@@ -74,13 +74,13 @@ call guessing.
 
 | | |
 |---|---|
-| knowledge objects | **307** |
-| registered sources | **403** |
-| published topics | **301** |
+| knowledge objects | **701** |
+| registered sources | **816** |
+| published topics | **534** |
 
 | type | objects |
 |---|---|
-| entity | 287 |
+| entity | 681 |
 | comparison | 11 |
 | guide | 5 |
 | glossary | 3 |
